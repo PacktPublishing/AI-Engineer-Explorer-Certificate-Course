@@ -1,2 +1,2 @@
-# AI-Engineer-Explorer-Certificate-Course
-AI Engineer Explorer Certificate Course, Published by Packt Publishing
+# AI-Engineer-Explorer-Course
+AI Engineer Explorer Course, Published by Packt Publishing
